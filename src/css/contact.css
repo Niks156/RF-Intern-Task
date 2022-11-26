@@ -1,0 +1,19 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+  font-family: myFirstFont;
+}
+.box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 360px;
+  width: 340px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.box div {
+  margin: 10px 0px;
+}

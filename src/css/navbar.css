@@ -1,0 +1,23 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  font-family: myFirstFont;
+}
+.logo {
+  padding-left: 4rem;
+}
+.pages ul {
+  display: flex;
+}
+.pages ul li {
+  padding: 0 7px;
+  list-style: none;
+}
+.pages ul Link {
+  text-decoration: none;
+}
+.user {
+  text-align: right;
+  padding-top: 9px;
+  padding-right: 90px;
+}
