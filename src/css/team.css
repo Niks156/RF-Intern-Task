@@ -1,0 +1,13 @@
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 80vh;
+  align-items: center;
+}
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(5, 0.1fr);
+  grid-gap: 30px;
+  padding: 50px;
+}

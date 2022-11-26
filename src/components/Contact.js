@@ -34,6 +34,14 @@ export default function Contact() {
             <span>to work with us</span>
           </div>
         </div>
+        <div className="handles">
+          Stay in touch <br />
+          <div className="icons">
+            <img src={require("../assets/twitter.png")} alt="twitter" />
+            <img src={require("../assets/insta.png")} alt="instagram" />
+            <img src={require("../assets/facebook.png")} alt="facebook" />
+          </div>
+        </div>
       </div>
     </>
   );

@@ -19,7 +19,9 @@ export default function Navbar() {
       </div>
       <div className="pages">
         <ul>
-          <li>HOME</li>
+          <li>
+            <Link to="/" style={styles}>HOME</Link>
+          </li>
           <li>
             <Link to="/journey" style={styles}>THE JOURNEY</Link>
           </li>

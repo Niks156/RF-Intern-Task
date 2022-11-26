@@ -6,7 +6,7 @@ export default function Journey() {
   return (
     <>
       <Navbar />
-      <h1>Hello Store!!</h1>
+      <h1>Hello Journey!!</h1>
     </>
   );
 }

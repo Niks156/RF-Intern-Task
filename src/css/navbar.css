@@ -10,12 +10,12 @@
   display: flex;
 }
 .pages ul li {
-  padding: 0 7px;
+  padding: 0 12px;
   list-style: none;
 }
-.pages ul Link {
+/* .pages ul Link {
   text-decoration: none;
-}
+} */
 .user {
   text-align: right;
   padding-top: 9px;
