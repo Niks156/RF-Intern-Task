@@ -1,4 +1,5 @@
 .flex {
+  font-family: myFirstFont;
   display: flex;
   flex-direction: column;
   justify-content: center;

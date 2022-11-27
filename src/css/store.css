@@ -1,0 +1,8 @@
+.store-layout {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    align-items: center;
+    grid-gap: 1rem;
+    font-family: myFirstFont;
+    margin-top: 2.8rem;
+}

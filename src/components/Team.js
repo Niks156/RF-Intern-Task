@@ -13,11 +13,11 @@ export default function Team() {
           who makes KICKSUP great. ;)
         </h2>
         <div className="card-container">
-          <Teamcard />
-          <Teamcard />
-          <Teamcard />
-          <Teamcard />
-          <Teamcard />
+          <Teamcard name={"Christiano"} />
+          <Teamcard name={"Zlatan"} />
+          <Teamcard name={"Neymar"}/>
+          <Teamcard name={"Mbappe"} />
+          <Teamcard name={"Messi"} />
         </div>
         <h1>and You ;)</h1>
       </div>

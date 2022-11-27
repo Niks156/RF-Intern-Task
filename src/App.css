@@ -3,6 +3,10 @@
 @import './css/navbar.css';
 @import './css/team.css';
 @import './css/teamcard.css';
+@import './css/store.css';
+@import './css/filter.css';
+@import './css/shoelist.css';
+@import './css/cart.css';
 .App {
   text-align: center;
   font-family: myFirstFont;
