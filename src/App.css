@@ -6,6 +6,7 @@
 @import './css/store.css';
 @import './css/filter.css';
 @import './css/shoelist.css';
+@import './css/shoe.css';
 @import './css/cart.css';
 .App {
   text-align: center;

@@ -18,19 +18,19 @@ export default function Filter() {
         <div>
           <label>
             <input type="checkbox" />
-            Rs 1500 - 4000
+             Rs 1500 - 4000
           </label>
         </div>
         <div>
           <label>
             <input type="checkbox" />
-            Rs 4001 - 7000
+             Rs 4001 - 7000
           </label>
         </div>
         <div>
           <label>
             <input type="checkbox" />
-            Rs 7001+
+             Rs 7001+
           </label>
         </div>
       </div>
