@@ -21,3 +21,9 @@
   font-family: Font;
   src: URL('./assets/fonts/Gobold_Regular.otf') format('opentype');
 }
+
+/* Utilities */
+.btn {
+  background-color: white;
+  padding: 4px 6px;
+}

@@ -14,7 +14,7 @@ export default function ShoesList() {
             height={20}
             width={20}
           />
-          <button>sort by</button>
+          <button className="btn">sort by</button>
         </div>
       </div>
       <div className="shoe-flex">

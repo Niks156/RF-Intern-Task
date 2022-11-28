@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
-import "../App.css";
 import Teamcard from "./Teamcard";
+import "../App.css";
 
 export default function Team() {
   return (

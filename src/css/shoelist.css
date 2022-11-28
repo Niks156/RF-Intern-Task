@@ -14,10 +14,7 @@
   align-items: center;
   column-gap: 10px;
 }
-.shoe-header button {
-  background-color: white;
-  padding: 4px 6px;
-}
+
 .shoe-flex {
   display: flex;
   align-items: center;

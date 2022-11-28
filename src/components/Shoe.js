@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "../App.css";
 
 export default function Shoe({ ...props }) {
   const styles = {
@@ -19,7 +18,7 @@ export default function Shoe({ ...props }) {
         />
         <div>{props.name}</div>
         <div style={{ display: "flex" }}>
-          <div style={{ flexGrow: 1 }}>Rs {props.price}</div>
+          <div style={{ flexGrow: 1 }}>Rs {props.price}/-</div>
           <div>Star Rating</div>
         </div>
       </Link>
