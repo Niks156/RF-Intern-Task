@@ -5,10 +5,12 @@
   justify-content: center;
   height: 80vh;
   align-items: center;
+  font-size: 25px;
+  margin-top: 40px;
 }
 .card-container {
   display: grid;
   grid-template-columns: repeat(5, 0.1fr);
   grid-gap: 30px;
-  padding: 50px;
+  padding: 50px 50px 25px 50px;
 }

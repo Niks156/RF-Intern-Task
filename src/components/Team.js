@@ -8,18 +8,18 @@ export default function Team() {
     <>
       <Navbar />
       <div className="flex">
-        <h2>
+        <div>
           Without bonding and coordination, every project is a fAILURE. look at
           who makes KICKSUP great. ;)
-        </h2>
-        <div className="card-container">
-          <Teamcard name={"Christiano"} />
-          <Teamcard name={"Zlatan"} />
-          <Teamcard name={"Neymar"}/>
-          <Teamcard name={"Mbappe"} />
-          <Teamcard name={"Messi"} />
         </div>
-        <h1>and You ;)</h1>
+        <div className="card-container">
+          <Teamcard name={"christiano"} />
+          <Teamcard name={"ikercasillas"} />
+          <Teamcard name={"james"}/>
+          <Teamcard name={"tonikroos"} />
+          <Teamcard name={"zidane"} />
+        </div>
+        <h3>and You ;)</h3>
       </div>
     </>
   );

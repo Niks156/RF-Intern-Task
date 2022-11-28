@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   font-family: myFirstFont;
+  font-size: 17px;
 }
 .logo {
   padding-left: 4rem;
