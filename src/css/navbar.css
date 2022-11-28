@@ -1,7 +1,6 @@
 .container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  font-family: myFirstFont;
   font-size: 17px;
 }
 .logo {
@@ -14,9 +13,7 @@
   padding: 0 12px;
   list-style: none;
 }
-/* .pages ul Link {
-  text-decoration: none;
-} */
+
 .user {
   text-align: right;
   padding-top: 9px;

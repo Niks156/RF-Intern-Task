@@ -1,6 +1,6 @@
-.store-layout {
+.product-layout {
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-columns: 3fr 1fr;
     align-items: center;
     grid-gap: 1rem;
     margin-top: 2.8rem;

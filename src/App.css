@@ -8,8 +8,9 @@
 @import './css/shoelist.css';
 @import './css/shoe.css';
 @import './css/cart.css';
-.App {
-  text-align: center;
+@import './css/product.css';
+@import './css/productpage.css';
+* {
   font-family: myFirstFont;
 }
 @font-face {
