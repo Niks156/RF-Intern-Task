@@ -27,3 +27,8 @@
   background-color: white;
   padding: 4px 6px;
 }
+.btn-black {
+  color: white;
+  background-color: black;
+  padding: 4px 6px;
+}

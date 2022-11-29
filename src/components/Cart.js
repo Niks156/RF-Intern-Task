@@ -14,6 +14,9 @@ export default function Cart() {
       </div>
       <div className="card-body">
         What's stopping you, designer?
+        <div>
+          <button className="btn-black btn-style">order now</button>
+        </div>
       </div>
     </div>
   );

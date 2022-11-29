@@ -10,7 +10,13 @@
 }
 .card-body{
   display: flex;
+  flex-direction: column ;
   justify-content: center;
   align-items: center;
   height: 90%;
+}
+.btn-style {
+  position: absolute;
+  bottom: 7%;
+  left: 86%;
 }

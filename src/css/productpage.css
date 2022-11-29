@@ -17,12 +17,7 @@
   display: flex;
   justify-content: center;
 }
-.btn-black {
-  color: white;
-  background-color: black;
-  padding: 4px 6px;
-  margin-left: 5px;
-}
+
 .product-seller {
   font-size: 16px;
 }

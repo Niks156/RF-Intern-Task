@@ -163,7 +163,7 @@ export default function Productpage() {
         <div>Rate Product</div>
         <div className="footer-buttons">
           <button className="btn">Share Design</button>
-          <button className="btn-black">Add to Cart</button>
+          <button className="btn-black" style={{marginLeft: 5}}>Add to Cart</button>
         </div>
       </div>
     </div>
