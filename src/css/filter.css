@@ -54,13 +54,23 @@
 }
 
 /* Filter-apply */
-.filter-apply{
-    display: flex;
-    justify-content: center;
-    text-align: center;
+.filter-apply {
+  display: flex;
+  justify-content: center;
+  text-align: center;
 }
 .apply {
   padding: 4px;
   color: white;
   background-color: black;
+}
+
+@media screen and (max-width: 700px) and (min-width: 0px) {
+  .filter-container {
+    width: 75vw;
+    margin: auto;
+    padding: 15px 30px;
+    font-size: 15px;
+    margin-left: 0;
+  }
 }

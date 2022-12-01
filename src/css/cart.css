@@ -8,15 +8,23 @@
   justify-content: center;
   align-items: center;
 }
-.card-body{
+.card-body {
   display: flex;
-  flex-direction: column ;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 90%;
+  height: 80%;
 }
-.btn-style {
-  position: absolute;
-  bottom: 7%;
-  left: 86%;
+.card-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+@media screen and (max-width: 600px) and (min-width: 0px) {
+  .cart-container {
+    padding: 15px;
+    font-size: 16px;
+    height: 75vh;
+    width: 80vw;
+  }
 }

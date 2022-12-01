@@ -12,6 +12,7 @@
 @import './css/productpage.css';
 * {
   font-family: myFirstFont;
+  flex-wrap: wrap;
 }
 @font-face {
   font-family: myFirstFont;

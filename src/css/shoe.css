@@ -1,0 +1,9 @@
+.shoe-component {
+  margin-top: 10px;
+}
+@media screen and (max-width: 600px) and (min-width: 0px) {
+  .shoe-component img {
+    height: 280px;
+    width: 280px;
+  }
+}

@@ -14,11 +14,16 @@
   align-items: center;
   column-gap: 10px;
 }
-
 .shoe-flex {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
   column-gap: 33px;
+}
+@media screen and (max-width: 700px) and (min-width: 0px) {
+  .shoe-container {
+    padding: 10px 30px;
+    width: 75vw;
+  }
 }

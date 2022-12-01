@@ -12,11 +12,9 @@ export default function Cart() {
           alt="Cart"
         />
       </div>
-      <div className="card-body">
-        What's stopping you, designer?
-        <div>
-          <button className="btn-black btn-style">order now</button>
-        </div>
+      <div className="card-body">What's stopping you, designer?</div>
+      <div className="card-footer">
+        <button className="btn-black btn-style">order now</button>
       </div>
     </div>
   );

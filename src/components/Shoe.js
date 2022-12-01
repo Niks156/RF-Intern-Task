@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import '../App.css'
 
 export default function Shoe({ ...props }) {
   const styles = {
@@ -7,7 +8,7 @@ export default function Shoe({ ...props }) {
     color: "black",
   };
   return (
-    <div style={{ marginTop: 10 }}>
+    <div className="shoe-component">
       <Link to="/store/product" style={styles}>
         <img
           src={require(`../assets/${props.img}.webp`)}
