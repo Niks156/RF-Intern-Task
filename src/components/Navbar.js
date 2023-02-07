@@ -32,7 +32,7 @@ export default function Navbar() {
             <Link to="/store" style={styles}>STORE</Link>
           </li>
           <li>
-            <Link to="/" style={styles}>CONTACT</Link>
+            <Link to="/contact" style={styles}>CONTACT</Link>
           </li>
         </ul>
       </div>
